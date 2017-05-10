@@ -1,0 +1,21 @@
++/target/
+/.classpath
+/.project
+/.settings/
+/bin/
+/*.iml
+/*/logs/
+/*/target/
+/*/.classpath
+/*/.project
+/*/.settings/
+/*/bin/
+/*/*.iml
+/*/.springBeans
+<<<<<<< HEAD
+=======
+/*/*/*/*/*.iml
+/.idea
+>>>>>>> refs/remotes/origin/develop
+/.DS_Store
+/*/.DS_Store
